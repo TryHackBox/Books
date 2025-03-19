@@ -20,4 +20,4 @@
 
 کانال تلگرام نویسنده : https://t.me/KavehAPT
 
-[کانال تلگرام آموزشی ما :  https://t.me/TryHackBox
+کانال تلگرام آموزشی ما :  https://t.me/TryHackBox
