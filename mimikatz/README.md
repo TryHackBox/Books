@@ -12,3 +12,11 @@
 - نحوه استفاده از Mimikatz در حملات سایبری
 - راه‌های دفاع در برابر حملات Mimikatz
 
+
+**لینک‌های مرتبط**
+
+توییتر نویسنده :  https://www.x.com/kavehxnet
+
+کانال تلگرام نویسنده : https://t.me/KavehAPT
+
+کانال تلگرام آموزشی ما :  https://t.me/TryHackBox
